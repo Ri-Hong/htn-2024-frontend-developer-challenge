@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/htn-2024-frontend-developer-challenge/static/css/main.cc421bad.css",
+    "main.js": "/htn-2024-frontend-developer-challenge/static/js/main.c47fa8b0.js",
+    "index.html": "/htn-2024-frontend-developer-challenge/index.html",
+    "main.cc421bad.css.map": "/htn-2024-frontend-developer-challenge/static/css/main.cc421bad.css.map",
+    "main.c47fa8b0.js.map": "/htn-2024-frontend-developer-challenge/static/js/main.c47fa8b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc421bad.css",
+    "static/js/main.c47fa8b0.js"
+  ]
+}
